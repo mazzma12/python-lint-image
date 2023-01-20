@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.5.0
+
+```bash
+    black==22.12.0 \
+    isort==5.11.4
+```
 ## 1.4.0
 
 Updated packges for:
